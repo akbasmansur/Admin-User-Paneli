@@ -1,0 +1,58 @@
+﻿@model AdminUserApp.Models.User
+
+@{
+    ViewBag.Title = "Details";
+}
+
+<div style="background-color:#214761;">
+    <h2 style="margin-left:100px; color:#ffffff;">Kullanıcı Detayları</h2>
+</div>
+<div style="margin-bottom:427px; margin-left:0px;">
+    <hr />
+    <dl class="dl-horizontal">
+        <dt>
+            @Html.DisplayNameFor(model => model.UserName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.UserName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.FullName)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.FullName)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Email)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Email)
+        </dd>
+
+        <dt>
+            @Html.DisplayNameFor(model => model.Password)
+        </dt>
+
+        <dd>
+            @Html.DisplayFor(model => model.Password)
+        </dd>
+
+    </dl>
+    <div class="col-md-offset-1 col-md-10">
+        <a href="@Url.Action("Edit","Account",new { id = Model.UserId })">
+            <input type="button" value="Değiştir" class="btn btn-primary" style="width:135px" />
+        </a>
+        <a href="@Url.Action("ListUsers","Account")">
+            <input type="button" value="Geri Dön" class="btn btn-group-lg" style="width:135px" />
+        </a>
+    </div>
+</div>
+@*<p>
+    @Html.ActionLink("Değiştir", "Edit", new { id = Model.UserId }) |
+    @Html.ActionLink("Geri Dön", "ListUsers")
+</p>*@

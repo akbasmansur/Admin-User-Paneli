@@ -1,0 +1,344 @@
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\ApplicationInsights.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\vbc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\AdminUserApp.dll.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\AdminUserApp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.Web.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Helpers.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Mvc.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.Web.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Helpers.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\System.Web.Mvc.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\obj\Debug\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\obj\Debug\AdminUserApp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csi.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csi.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\csi.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.AppContext.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Console.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\vbc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\roslyn\vbc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\EntityFramework.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\EntityFramework.SqlServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\EntityFramework.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\bin\EntityFramework.SqlServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp\AdminUserApp\obj\Debug\AdminUserApp.csprojResolveAssemblyReference.cache
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\ApplicationInsights.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csi.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csi.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\csi.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.AppContext.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Console.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\vbc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\vbc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\vbc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\AdminUserApp.dll.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\AdminUserApp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\EntityFramework.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\EntityFramework.SqlServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.Web.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Helpers.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Mvc.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\EntityFramework.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\EntityFramework.SqlServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.Web.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Helpers.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\bin\System.Web.Mvc.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\obj\Debug\AdminUserApp.csprojResolveAssemblyReference.cache
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\obj\Debug\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek\AdminUserApp\obj\Debug\AdminUserApp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\ApplicationInsights.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.AppContext.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Console.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.Process.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.Compression.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.Pipes.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.AccessControl.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Claims.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Principal.Windows.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Threading.Thread.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.ValueTuple.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XPath.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.rsp
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\VBCSCompiler.exe
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.dll.config
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.pdb
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.SqlServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Web.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.ApplicationInsights.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Helpers.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Mvc.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Deployment.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Razor.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.SqlServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Web.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.ApplicationInsights.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Deployment.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Razor.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Helpers.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Mvc.xml
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.csprojResolveAssemblyReference.cache
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.dll
+C:\Users\MANSUR-PC\Documents\Visual Studio 2015\Projects\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.pdb
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\ApplicationInsights.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.exe
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.exe.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csc.rsp
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.exe
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.exe.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\csi.rsp
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\Microsoft.Win32.Primitives.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.AppContext.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Collections.Immutable.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Console.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.Process.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.Compression.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.DriveInfo.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.IO.Pipes.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Reflection.Metadata.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.AccessControl.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Claims.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Security.Principal.Windows.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Threading.Thread.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.ValueTuple.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.ReaderWriter.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XmlDocument.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XPath.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.exe
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.exe.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\vbc.rsp
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\VBCSCompiler.exe
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\roslyn\VBCSCompiler.exe.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.dll.config
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\AdminUserApp.pdb
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.SqlServer.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Agent.Intercept.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.DependencyCollector.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.PerfCounterCollector.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Web.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.WindowsServer.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.ApplicationInsights.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.Web.Infrastructure.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Helpers.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Mvc.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Razor.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Deployment.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Razor.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\EntityFramework.SqlServer.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.DependencyCollector.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.ServerTelemetryChannel.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.Web.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.AI.WindowsServer.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.ApplicationInsights.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Razor.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Deployment.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Webpages.Razor.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Helpers.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\bin\System.Web.Mvc.xml
+F:\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.csprojResolveAssemblyReference.cache
+F:\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.dll
+F:\AdminUserApp-Yedek 3\AdminUserApp\obj\Debug\AdminUserApp.pdb

@@ -1,0 +1,124 @@
+﻿@using AdminUserApp.Models
+@{
+    ViewBag.Title = "AdminDashboard";
+    User user = (User)Session["User"];
+}
+<div id="page-inner">
+    <div class="row">
+        <div class="col-lg-12 ">
+            <div class="alert alert-info">
+                <strong>Hoşgeldin  @user.UserName ! </strong> Bugün için bekleyen göreviniz yok.
+            </div>
+
+        </div>
+    </div>
+    <!-- /. ROW  -->
+    <div class="row text-center pad-top">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="@Url.Action("ListUsers","Account")">
+                    <i class="fa fa-users fa-5x"></i>
+                    <h4>Üyeler</h4>
+                </a>
+            </div>
+
+
+        </div>
+        
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="@Url.Action("Register","Account")">
+                    <i class="fa fa-user fa-5x"></i>
+                    <h4>Yeni Üye</h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="@Url.Action("AssignRole","Account")">
+                    <i class="fa fa-pencil fa-5x"></i>
+                    <h4>Rol Ata</h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="@Url.Action("CreateRole","Account")">
+                    <i class="fa fa-pencil-square-o fa-5x"></i>
+                    <h4>Yeni Rol</h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-envelope-square fa-5x"></i>
+                    <h4>Mail Kutusu </h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-comments-o fa-5x"></i>
+                    <h4>Diğer</h4>
+                </a>
+            </div>
+        </div>
+    </div>
+
+    <!-- /. ROW  -->
+    <div class="row text-center pad-top">
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-calendar-o fa-5x"></i>
+                    <h4>Ekle</h4>
+                </a>
+            </div>
+
+
+        </div>
+
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-arrow-circle-o-down fa-5x"></i>
+                    <h4>Ekle</h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-arrows-h  fa-5x"></i>
+                    <h4>Ekle</h4>
+                </a>
+            </div>
+
+
+        </div>
+        <div class="col-lg-4 col-md-4 col-sm-6 col-xs-12">
+            <div class="div-square">
+                <a href="#">
+                    <i class="fa fa-plus  fa-5x"></i>
+                    <h4>Ekle</h4>
+                </a>
+            </div>
+
+
+        </div>
+
+    </div>
+</div>
+

@@ -1,0 +1,20 @@
+﻿
+
+@try
+{
+    if (ViewData["obj"].ToString() == "1" || ViewData["obj"].ToString() == "2")
+    {
+        <h1>Yanlış şifre </h1>
+    }
+    else if (ViewData["obj"].ToString() == "0")
+    {
+        <h1> kullanıcı rolü henüz tanımlanmamış lütfen admine danışınız. </h1>
+    }
+}
+catch
+{
+    <h1> böyle bir üye mevcut değil. Lütfen üye olunuz. </h1>
+
+}
+
+

@@ -1,0 +1,45 @@
+﻿@model RolAtama
+@using AdminUserApp.Models
+
+@{
+    ViewBag.Title = "RolAta";
+}
+
+<div style="background-color:#214761;">
+    <h2 style="margin-left:100px; color:#ffffff;">Kullanıcıya rol ver</h2>
+</div>
+@using (Html.BeginForm("RolAta", "Account", FormMethod.Post, null))
+{
+    <div style="margin:100px; margin-top:0px; margin-bottom:400px;">
+        <div class="form-group">
+            <div>
+                <label>Rol ve Kullanıcı Seçiniz :</label>
+            </div>
+
+        </div>
+        <div class="form-group">
+            <select name="SecilenKategori" class = "btn btn-default dropdown-toggle", style = "width: 500px;">
+                @foreach (User usr in Model.Kullanicilar)
+                {
+                    <option>@usr.UserName</option>
+                }
+            </select>
+
+        </div>
+        <div class="form-group">
+            <select name="SecilenKategori2" class = "btn btn-default dropdown-toggle", style = "width: 500px;">
+                @foreach (Role rl in Model.Roller)
+                {
+                    <option>@rl.RoleName</option>
+                }
+            </select>
+
+        </div>
+        <div class="form-group">
+            <input type="submit" value="Ata" class="btn btn-primary" style="width:140px" />
+            <a href="@Url.Action("AdminDashboard","Dashboard")">
+                <input type="button" value="Vazgeç" class="btn btn-group-lg" style="width:135px" />
+            </a>
+        </div>
+    </div>
+}
